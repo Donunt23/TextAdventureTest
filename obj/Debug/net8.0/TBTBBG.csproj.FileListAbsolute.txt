@@ -1,0 +1,14 @@
+/Users/donut/RiderProjects/TBTBBG/bin/Debug/net8.0/TBTBBG
+/Users/donut/RiderProjects/TBTBBG/bin/Debug/net8.0/TBTBBG.deps.json
+/Users/donut/RiderProjects/TBTBBG/bin/Debug/net8.0/TBTBBG.runtimeconfig.json
+/Users/donut/RiderProjects/TBTBBG/bin/Debug/net8.0/TBTBBG.dll
+/Users/donut/RiderProjects/TBTBBG/bin/Debug/net8.0/TBTBBG.pdb
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.AssemblyInfoInputs.cache
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.AssemblyInfo.cs
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.csproj.CoreCompileInputs.cache
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.dll
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/refint/TBTBBG.dll
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.pdb
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/TBTBBG.genruntimeconfig.cache
+/Users/donut/RiderProjects/TBTBBG/obj/Debug/net8.0/ref/TBTBBG.dll
